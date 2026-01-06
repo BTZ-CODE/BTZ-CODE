@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Minecraft Client called Oblivion Clietnt<br>2nd grade high school
+I'm currently working on a Minecraft Client called Oblivion Client<br>2nd grade high school
 
 
 ## 🌐 Socials:
